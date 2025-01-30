@@ -1,7 +1,7 @@
 # QR Code Generator
 
 
-**📌 Description**
+# 📌 Description
 
 This is a simple Node.js application that generates a QR code image from a user-input URL and saves the URL to a text file.
 
@@ -15,7 +15,7 @@ This is a simple Node.js application that generates a QR code image from a user-
 **🛠️ Installation**
 
 Clone this repository:
- git clone https://github.com/yourusername/qr-code-generator.git
+ git clone https://github.com/Harsha022005/QR-code.git
  cd qr-code-generator
  Install dependencies:
    npm install
